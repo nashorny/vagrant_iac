@@ -1,0 +1,4 @@
+#%VMNAME;MAC          ;IP            ;CPU;MEM;DISK;IMG;PROVSCRIPT
+kube1;52:54:00:77:11:22;192.168.122.61;2;4096;50;generic/centos7;kube_m_centos7.sh
+kube2;52:54:00:77:12:23;192.168.122.62;1;2048;50;generic/centos7;kube_w_centos7.sh
+#kube3;52:54:00:77:14:24;192.168.122.63;1;2048;50;generic/centos7;kube_centos7.sh

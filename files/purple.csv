@@ -1,0 +1,7 @@
+#%VMNAME;MAC          ;IP            ;CPU;MEM;DISK;IMG;PROVSCRIPT
+#osq1;52:54:00:d6:74:ea;192.168.122.51;1;2048;50;generic/ubuntu1804;purp_ubuntu.sh
+#osq2;52:54:00:18:7a:ec;192.168.122.52;1;2048;50;generic/centos7;purp_centos7.sh
+#osq3;52:54:00:19:7b:11;192.168.122.57;1;2048;50;generic/centos7;openssl300.sh
+#kali;52:54:00:18:f1:13;192.168.122.53;2;4096;50;ipv4v6/kali;purp_kali.sh
+#scr1;52:54:00:18:f1:13;192.168.122.54;4;8192;50;caio2k/ubuntu-devel;purp_udesktop.sh
+ejbca;52:54:00:18:f1:01;192.168.122.56;2;4096;50;generic/centos7;ejbca.sh

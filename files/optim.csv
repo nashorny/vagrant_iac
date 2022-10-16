@@ -1,0 +1,13 @@
+#%VMNAME;MAC          ;IP            ;CPU;MEM;DISK;IMG;PROVSCRIPT
+#poc1;52:54:00:d6:44:aa;192.168.122.37;1;2048;50;optim;dns-nfs.sh
+#poc2;52:54:00:18:4a:0c;192.168.122.38;1;2048;50;optim;optim.sh
+#poc3;52:54:00:e0:74:d1;192.168.122.39;1;2048;50;optim;optim.sh
+#poc4;52:54:00:d7:a5:f1;192.168.122.40;1;2048;50;optim;optim.sh
+
+#pre1;52:54:00:d6:44:aa;192.168.122.37;1;2048;50;optim;dns-nfs.sh
+#pre2;52:54:00:18:4a:0c;192.168.122.38;1;2048;50;optim;optim.sh
+#predb;52:54:00:88:f3:1a;192.168.122.41;1;2048;50;optim;db.sh
+
+loc1;52:54:a1:d7:f4:18;192.168.122.37;2;4096;50;generic/debian10;optim.sh
+#registry;52:54:00:14:4a:af;192.168.122.38;1;2048;50;optim;docker-registry.sh
+#jenkins;52:54:00:d6:44:aa;192.168.122.39;1;2048;50;generic/debian10;jenkins.sh
